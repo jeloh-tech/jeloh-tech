@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jeloh</h1>
+<h1 align="center">Hi, I'm Jeloh</h1>
 <h3 align="center">Building simple tools that make life easier ⚙️</h3>
 
 <p align="center">
